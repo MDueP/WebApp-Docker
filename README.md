@@ -9,9 +9,9 @@
 
 
 ### Ved ændringer eller første setup husk --build
-docker-compose --profile prod up -d --build
-
-docker-compose --profile prod down -v
+    docker-compose --profile prod up -d --build
+    
+    docker-compose --profile prod down -v
 
 
 
